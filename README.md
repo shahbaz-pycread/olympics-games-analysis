@@ -1,6 +1,6 @@
-# olympics-games-analysis
+# Olympics-Games-Analysis
 
-### Business Problem: As a data analyst, the task is to visulize data that will help readers to understand how countries have performed historically in the Summer olympics.
+### Business Problem: **As a data analyst, the task is to visulize data that will help readers to understand how countries have performed historically in the Summer olympics.**
 
 #### Tools Used: 
                 1.SQL SERVER for cleaning and transforming data 
